@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+        <title>Wow website testing</title>
+    </head>
+    <body>
+        <img src="C:/Users/tomih/Downloads/Koodi/Tomi website/Kissa.jpg" alt="Cat">
+        <h1>Tomi website testing</h1>
+        <p><em><a href="https://www.englandstore.com/en/">Football<strong> is coming home</a></strong></em></p>
+        <p><strong>Uno dos tres cuatro</strong></p>
+        <hr size"3" color=green noshade>
+        <h3>Education</h3>
+        <ul>
+            <li>Uki ala-aste</li>
+            <li>Uki ylä-aste</li>
+            <li> <a href="https://uusikaupunki.fi/kasvatus-ja-opetus/uudenkaupungin-lukio">Ukilukio</a></li>
+        </ul>
+        <a href="My Hobbies.html">My Hobbies</a>
+        <a href="Contact me.html"><h3>Contact me</h3></a>
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>My hobbies</title>
+    </head>
+    <body>
+    <h3>My hobbies</h3>
+        <ol>
+            <li>Tennis</li>
+            <li>Football</li>
+            <li>Jee</li>
+        </ol>
+    </body>
+</html>
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <title>Contact me</title>
+</head>
+<h3>Phone number</h3>
+<ul>
+    <li>12345678</li>
+    </ul>
+<h3>Email</h3>
+<ul>
+    <li>12345.1234@gmail.com</li>
+</ul>
+<body>
+
+</body>
